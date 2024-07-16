@@ -9,7 +9,7 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">  
 
  
-<p align="left"> <a href="https://twitter.com/deepakk94382295" target="blank"><img src="https://img.shields.io/twitter/follow/deepakk94382295?logo=twitter&style=for-the-badge" alt="deepakk94382295" /></a> </p>
+<p align="left"> <a href="https://twitter.com/yamamoto" target="blank"><img src="https://img.shields.io/twitter/follow/yamamoto1995?logo=twitter&style=for-the-badge" alt="yamamoto1995" /></a> </p>
    
 
 - 📫 How to reach me **yasmoto1995@gmail.com** 
@@ -42,19 +42,6 @@
 📊 &nbsp;**This week I spent my time on**
 
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=raajaryan&hide_title=true&hide_border=true&langs_count=7&bg_color=1A1B27&text_color=fff&title_color=79ff97&icon_color=777&line_height=27)
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakkumar55&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="deepakkumar55" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakkumar55&show_icons=true&locale=en&theme=tokyonight" alt="deepakkumar55" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkumar55&theme=tokyonight" alt="deepakkumar55" /></p>
-
-
-<p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=deepakkumar55&limit=5&theme=dark&combine_all_yearly_contributions=true" /></p>
-
-
 
 
 <picture>
