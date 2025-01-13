@@ -8,11 +8,7 @@
    
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">  
 
- 
-<p align="left"> <a href="https://twitter.com/yamamoto" target="blank"><img src="https://img.shields.io/twitter/follow/yamamoto1995?logo=twitter&style=for-the-badge" alt="yamamoto1995" /></a> </p>
-   
-
-- 📫 How to reach me **yasmoto1995@gmail.com** 
+- 📫 How to reach me **zhang0824.dev@gmail.com** 
  
 - ⚡ Fun fact **Rabbits can see behind them without moving their heads**
 
